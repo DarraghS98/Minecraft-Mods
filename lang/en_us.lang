@@ -1,0 +1,8 @@
+//Items
+item.obsidian_ingot.name=Obsidian Ingot
+item.lapis_ingot.name=Lapis Ingot
+item.ruby_ingot.name=Ruby Ingot
+
+//Blocks
+tile.ruby_block.name=Block of Ruby
+tile.ruby_ore.name=Ruby Ore
